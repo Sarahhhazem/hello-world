@@ -1,3 +1,3 @@
 # hello-world
 Hi there! 
-Sarah here! I like all things data!
+Sarah here! I love all things data!
