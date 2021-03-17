@@ -1,2 +1,3 @@
 # hello-world
-random intro lol 
+Hi there! 
+Sarah here! I like all things data!
